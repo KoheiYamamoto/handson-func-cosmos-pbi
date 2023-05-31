@@ -1,0 +1,40 @@
+{
+    "project_id": "00g4es6cdcWNeHZrn697",
+    "DeviceID": "LivingRoom",
+    "ModelID": "2d843nr93h38f",
+    "id": "0",
+    "Inferences": {
+        "inferenceResults": [
+            {
+                "C": 0,
+                "P": 0.97265625,
+                "Left": 8,
+                "Top": 0,
+                "Right": 68,
+                "Bottom": 299
+            },
+            {
+                "C": 0,
+                "P": 0.26953125,
+                "Left": 155,
+                "Top": 54,
+                "Right": 198,
+                "Bottom": 270
+            },
+            {
+                "C": 0,
+                "P": 0.26953125,
+                "Left": 1,
+                "Top": 21,
+                "Right": 49,
+                "Bottom": 299
+            }
+        ],
+        "Timestamp": "20230316074934175"
+    },
+    "_rid": "yHp1AOP76EEBAAAAAAAAAA==",
+    "_self": "dbs/yHp1AA==/colls/yHp1AOP76EE=/docs/yHp1AOP76EEBAAAAAAAAAA==/",
+    "_etag": "\"0000d9da-0000-2300-0000-6412cf8e0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1678954382
+}

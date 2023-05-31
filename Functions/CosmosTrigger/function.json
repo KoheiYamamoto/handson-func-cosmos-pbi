@@ -1,0 +1,15 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "type": "cosmosDBTrigger",
+      "name": "documents",
+      "direction": "in",
+      "leaseCollectionName": "leases",
+      "connectionStringSetting": "aitriosazhandson00001_DOCUMENTDB",
+      "databaseName": "Raw",
+      "collectionName": "Items",
+      "createLeaseCollectionIfNotExists": true
+    }
+  ]
+}
